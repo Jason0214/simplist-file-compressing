@@ -1,4 +1,9 @@
-#include "main.h"
+#include <stdio.h>
+#include <stdlib.h>
+
+void Compress(void);
+void Decompress(void);
+
 int main(){
 	int choice = 0;
 	do{
